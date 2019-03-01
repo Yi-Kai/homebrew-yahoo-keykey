@@ -4,7 +4,7 @@ cask 'yahoo-keykey' do
 
   url "https://github.com/Yi-Kai/YahooKeyKey/releases/download/v#{version}/YahooKeyKey.zip"
   appcast 'https://github.com/Yi-Kai/YahooKeyKey/releases.atom'
-  name 'Yahoo! KeyKey Chinese input method (ci-test)'
+  name 'Yahoo! KeyKey Chinese input method engine (IME)'
   homepage 'https://github.com/Yi-Kai/YahooKeyKey'
 
   pkg 'KeyKey.pkg'
