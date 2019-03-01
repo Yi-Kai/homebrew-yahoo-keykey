@@ -1,6 +1,6 @@
 # homebrew-yahoo-keykey
 
-[![Build Status](https://travis-ci.org/scw1109/homebrew-yahoo-keykey.svg?branch=master)](https://travis-ci.org/scw1109/homebrew-yahoo-keykey)
+[![Build Status](https://travis-ci.org/Yi-Kai/homebrew-yahoo-keykey.svg?branch=master)](https://travis-ci.org/Yi-Kai/homebrew-yahoo-keykey)
 
 > Yahoo! KeyKey Chinese input method for Homebrew Tap
 
