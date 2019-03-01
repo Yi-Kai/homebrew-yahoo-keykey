@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Yi-Kai/homebrew-yahoo-keykey.svg?branch=master)](https://travis-ci.org/Yi-Kai/homebrew-yahoo-keykey)
 
-> Brew tap for Yahoo! KeyKey Chinese input method
+> Brew tap for Yahoo! KeyKey Chinese input method engine (IME)
 
 # How to Use
 
