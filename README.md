@@ -1,6 +1,6 @@
 # homebrew-yahoo-keykey
 
-[![Build Status](https://travis-ci.org/Yi-Kai/homebrew-yahoo-keykey.svg?branch=master)](https://travis-ci.org/Yi-Kai/homebrew-yahoo-keykey)
+[![Build Status](https://travis-ci.com/Yi-Kai/homebrew-yahoo-keykey.svg?branch=master)](https://travis-ci.com/Yi-Kai/homebrew-yahoo-keykey)
 
 > Brew tap for Yahoo! KeyKey Chinese input method engine (IME)
 
