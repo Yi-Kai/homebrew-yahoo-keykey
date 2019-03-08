@@ -7,6 +7,9 @@ matrix:
     - os: osx
       osx_image: xcode10
       rvm: system
+    - os: osx
+      osx_image: xcode10.2
+      rvm: system
   fast_finish: true
 
 branches:
