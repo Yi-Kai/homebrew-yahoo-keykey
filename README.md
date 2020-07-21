@@ -14,7 +14,7 @@
 
 ```bash
 brew tap Yi-Kai/yahoo-keykey
-brew cask install yahoo-keykey 
+brew cask install yahoo-keykey --no-quarantine
 ```
 
 ## Uninstall
