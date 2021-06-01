@@ -14,13 +14,13 @@
 
 ```bash
 brew tap Yi-Kai/yahoo-keykey
-brew cask install yahoo-keykey --no-quarantine
+brew install yahoo-keykey --no-quarantine
 ```
 
 ## Uninstall
 
 ```bash
-brew cask uninstall yahoo-keykey
+brew uninstall yahoo-keykey
 ```
 
 # See also
