@@ -3,7 +3,9 @@ cask 'yahoo-keykey' do
   sha256 'affa3836cc1737e8a42bdb64d70e141979a1284055c30e27f253b38f54109404'
 
   url "https://github.com/Yi-Kai/YahooKeyKey/releases/download/v#{version}/YahooKeyKey.zip"
-  appcast 'https://github.com/Yi-Kai/YahooKeyKey/releases.atom'
+  livecheck do
+    url 'https://github.com/Yi-Kai/YahooKeyKey/releases.atom'
+  end
   name 'Yahoo! KeyKey Chinese input method engine (IME)'
   homepage 'https://github.com/Yi-Kai/YahooKeyKey'
 
